@@ -1,5 +1,5 @@
 ## Weekly Nerds
--   [Introductie](./wiki/Weekly-Nerds)
+-   [Introductie](/wiki/Weekly-Nerds)
 -   [Cyd Stumpel](./Cyd-Stumpel)
 -   [Alvaro Montoro](./Alvaro-Montoro)
 -   [Fenna de Wilde](./Fenna-de-Wilde)
