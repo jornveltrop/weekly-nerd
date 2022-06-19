@@ -1,4 +1,4 @@
-# Weekly Nerd Jorn Veltrop
+# Weekly Nerd - Jorn Veltrop
 
 ## Weekly Nerds
 -   [Introductie](https://github.com/jornveltrop/weekly-nerd/wiki/Weekly-Nerds)
