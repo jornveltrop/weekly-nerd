@@ -1,5 +1,7 @@
 # Weekly Nerd - Jorn Veltrop
 
+Tijdens de minor Web Design and Development kregen we regelmatig Weekly Nerds aangeboden. Intressante mensen uit het werkveld met ieder zijn eigen expertise. Dit zijn mijn aantekeningen van de talks samen met 3 artikelen die ik geschreven heb met betrekking tot de minor.
+
 ## Artikelen
 -   [Require vs. import](https://github.com/jornveltrop/weekly-nerd/wiki/Require-vs-import)
 -   [Progressive Enhancement vs. Graceful Degradation](https://github.com/jornveltrop/weekly-nerd/wiki/PE-vs-GD)
